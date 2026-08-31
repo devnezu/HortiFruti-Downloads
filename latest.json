@@ -1,7 +1,7 @@
 {
-  "version": "1.5.0",
-  "publishedAt": "2026-08-31T17:08:03.569Z",
-  "notes": "# HortiFruti PDV 1.5.0\n\n- Novo banco inicial oficial com catálogo, preços e configurações da loja prontos para a primeira abertura.\n- Vendas, custos, turnos, movimentações e fechamentos não acompanham mais instalações novas.\n- Sugestão do valor contado no último fechamento ao abrir um novo caixa.\n- Cupom de teste da impressora com visual próprio e mais legível em impressão térmica.\n- Mensagens de impressão deixam claro quando o cupom foi enviado para a fila e alertam quando a impressora apresenta erro.",
-  "installerUrl": "https://github.com/devnezu/HortiFruti-Downloads/releases/download/v1.5.0/HortiFruti.PDV.Setup.1.5.0.exe",
-  "sha256": "74907bf2a54aff26923513d836f896501bcf83840e9e07accc19992c17cefb39"
+  "version": "1.6.0",
+  "publishedAt": "2026-08-31T17:54:08.843Z",
+  "notes": "## Novidades\n\n- Cadastre vários códigos de barras para o mesmo produto e use qualquer um deles no leitor do PDV.\n- Novo botão para sincronizar produtos e categorias ausentes do catálogo inicial, sem alterar os dados já cadastrados.\n- O leitor não interpreta mais códigos digitados em janelas de configuração como produtos.\n\n## Segurança dos dados\n\n- Seus produtos, vendas, configurações e banco de dados existentes são preservados durante a atualização.",
+  "installerUrl": "https://github.com/devnezu/HortiFruti-Downloads/releases/download/v1.6.0/HortiFruti.PDV.Setup.1.6.0.exe",
+  "sha256": "b9e2570187cd86c61a241eacf1271f903ababe29ea5949f5fd5bf24b3e2ce147"
 }
