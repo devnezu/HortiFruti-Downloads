@@ -1,7 +1,7 @@
 {
-  "version": "1.6.0",
-  "publishedAt": "2026-08-31T17:54:08.843Z",
-  "notes": "## Novidades\n\n- Cadastre vários códigos de barras para o mesmo produto e use qualquer um deles no leitor do PDV.\n- Novo botão para sincronizar produtos e categorias ausentes do catálogo inicial, sem alterar os dados já cadastrados.\n- O leitor não interpreta mais códigos digitados em janelas de configuração como produtos.\n\n## Segurança dos dados\n\n- Seus produtos, vendas, configurações e banco de dados existentes são preservados durante a atualização.",
-  "installerUrl": "https://github.com/devnezu/HortiFruti-Downloads/releases/download/v1.6.0/HortiFruti.PDV.Setup.1.6.0.exe",
-  "sha256": "b9e2570187cd86c61a241eacf1271f903ababe29ea5949f5fd5bf24b3e2ce147"
+  "version": "1.7.0",
+  "publishedAt": "2026-08-31T19:22:37.195Z",
+  "notes": "## Novidade\n\n- Nova precificação por margem para produtos com custo cadastrado.\n- Informe uma faixa de margem e escolha entre preço mínimo, equilibrado ou de maior margem.\n- As sugestões mostram o lucro bruto estimado e preenchem o preço de venda com um clique.\n- Arredondamento comercial preserva a margem escolhida.\n\nO cálculo considera preço menos custo. Despesas, perdas e impostos continuam sob avaliação do operador.",
+  "installerUrl": "https://github.com/devnezu/HortiFruti-Downloads/releases/download/v1.7.0/HortiFruti.PDV.Setup.1.7.0.exe",
+  "sha256": "f4c91819363c4695d56fff8e61c5582d41dc5b3bb6499b4344b63b13642e2df1"
 }
