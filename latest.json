@@ -1,7 +1,7 @@
 {
-  "version": "1.7.0",
-  "publishedAt": "2026-08-31T19:22:37.195Z",
-  "notes": "## Novidade\n\n- Nova precificação por margem para produtos com custo cadastrado.\n- Informe uma faixa de margem e escolha entre preço mínimo, equilibrado ou de maior margem.\n- As sugestões mostram o lucro bruto estimado e preenchem o preço de venda com um clique.\n- Arredondamento comercial preserva a margem escolhida.\n\nO cálculo considera preço menos custo. Despesas, perdas e impostos continuam sob avaliação do operador.",
-  "installerUrl": "https://github.com/devnezu/HortiFruti-Downloads/releases/download/v1.7.0/HortiFruti.PDV.Setup.1.7.0.exe",
-  "sha256": "f4c91819363c4695d56fff8e61c5582d41dc5b3bb6499b4344b63b13642e2df1"
+  "version": "1.8.0",
+  "publishedAt": "2026-08-31T20:00:25.961Z",
+  "notes": "## Novidades\n\n- Selecione vários produtos e ative ou desative todos de uma vez.\n- Use a seleção geral para marcar rapidamente todos os produtos visíveis após aplicar busca e filtros.\n- A desativação em massa remove os itens afetados de uma venda em andamento sem alterar o histórico.\n- Ao cadastrar produtos em sequência, o próximo cadastro mantém automaticamente a última categoria utilizada.\n\nAs ações em massa alteram somente o status dos produtos; não há edição coletiva de nomes, preços ou outros dados.",
+  "installerUrl": "https://github.com/devnezu/HortiFruti-Downloads/releases/download/v1.8.0/HortiFruti.PDV.Setup.1.8.0.exe",
+  "sha256": "0048ac7646777cd422d8db5ca75394aed1d784b0fb8f1a48a2e0fbe96efbf97c"
 }
