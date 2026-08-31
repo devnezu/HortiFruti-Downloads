@@ -1,7 +1,7 @@
 {
-  "version": "1.8.1",
-  "publishedAt": "2026-08-31T20:39:26.313Z",
-  "notes": "# HortiFruti PDV v1.8.1\n\n- As buscas de produtos agora ignoram diferenças entre letras maiúsculas e minúsculas, acentos e espaços repetidos.\n- A melhoria foi aplicada ao PDV, gerenciamento de produtos, custos por fornecedor, histórico e atividades.\n- A busca de produtos também encontra resultados pelo nome da categoria e pelo código de barras.",
-  "installerUrl": "https://github.com/devnezu/HortiFruti-Downloads/releases/download/v1.8.1/HortiFruti.PDV.Setup.1.8.1.exe",
-  "sha256": "76246c2b72bfdf2de4b88fb8e2aeee3fea130c540f342f51f48ec15d12231de7"
+  "version": "1.9.0",
+  "publishedAt": "2026-08-31T21:34:37.475Z",
+  "notes": "# HortiFruti PDV v1.9.0\n\n- O cadastro e a edição de produtos agora permitem reutilizar a foto de outro produto do catálogo, com busca por nome ou categoria.\n- O registro de custos ganhou opções visíveis para custo direto e compra em caixa ou pacote.\n- Produtos vendidos por quilograma podem ter o custo calculado pelo valor total da caixa e pelo peso líquido em kg.\n- A conta e o custo final por kg ou unidade são exibidos antes do registro.",
+  "installerUrl": "https://github.com/devnezu/HortiFruti-Downloads/releases/download/v1.9.0/HortiFruti.PDV.Setup.1.9.0.exe",
+  "sha256": "a1c5323c30dff3619ff1d4ac0813a85a474b811669af9d623fa336ac68dcb52d"
 }
