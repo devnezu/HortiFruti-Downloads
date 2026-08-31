@@ -2,6 +2,6 @@
   "version": "1.2.0",
   "publishedAt": "2026-08-31T03:02:16.082Z",
   "notes": "## Impressora Epson\n\n- O instalador agora inclui a configuração automática da Epson TM-T20X-II na primeira instalação.\n- Em Configurações, use **Verificar driver** para diagnosticar a fila da Epson e **Instalar driver** para instalar ou reparar o driver quando necessário.",
-  "installerUrl": "https://github.com/devnezu/HortiFruti-Downloads/releases/download/v1.2.0/HortiFruti%20PDV%20Setup%201.2.0.exe",
+  "installerUrl": "https://github.com/devnezu/HortiFruti-Downloads/releases/download/v1.2.0/HortiFruti.PDV.Setup.1.2.0.exe",
   "sha256": "785c201872a04b07f0db5242e5374031bec83e8a4b6cb339fa1c25c2c4c89dc9"
 }
