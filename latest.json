@@ -1,7 +1,7 @@
 {
-  "version": "1.2.0",
-  "publishedAt": "2026-08-31T03:02:16.082Z",
-  "notes": "## Impressora Epson\n\n- O instalador agora inclui a configuração automática da Epson TM-T20X-II na primeira instalação.\n- Em Configurações, use **Verificar driver** para diagnosticar a fila da Epson e **Instalar driver** para instalar ou reparar o driver quando necessário.",
-  "installerUrl": "https://github.com/devnezu/HortiFruti-Downloads/releases/download/v1.2.0/HortiFruti.PDV.Setup.1.2.0.exe",
-  "sha256": "785c201872a04b07f0db5242e5374031bec83e8a4b6cb339fa1c25c2c4c89dc9"
+  "version": "1.3.0",
+  "publishedAt": "2026-08-31T14:23:24.190Z",
+  "notes": "## Catálogo de produtos mais rápido\n\n- A tela de vendas agora mostra somente os produtos necessários durante a navegação, deixando buscas, rolagem e inclusão no carrinho mais ágeis.\n- As fotos dos produtos foram otimizadas sem removê-las do catálogo, reduzindo o tempo de carregamento.\n- Corrigido o retorno à tela de vendas após Configurações, para que as imagens visíveis carreguem corretamente.\n\n## Ajustes visuais\n\n- Melhorias no tamanho e no layout dos cartões de produto e da área de venda.\n- Removido o resumo de turno do rodapé da barra lateral para deixar a navegação mais limpa.",
+  "installerUrl": "https://github.com/devnezu/HortiFruti-Downloads/releases/download/v1.3.0/HortiFruti.PDV.Setup.1.3.0.exe",
+  "sha256": "77dc30c39bb7738dad2caf2738467b406ba8ab3b05e3154298088ba0d2c43a70"
 }
