@@ -1,7 +1,7 @@
 {
-  "version": "1.8.0",
-  "publishedAt": "2026-08-31T20:00:25.961Z",
-  "notes": "## Novidades\n\n- Selecione vários produtos e ative ou desative todos de uma vez.\n- Use a seleção geral para marcar rapidamente todos os produtos visíveis após aplicar busca e filtros.\n- A desativação em massa remove os itens afetados de uma venda em andamento sem alterar o histórico.\n- Ao cadastrar produtos em sequência, o próximo cadastro mantém automaticamente a última categoria utilizada.\n\nAs ações em massa alteram somente o status dos produtos; não há edição coletiva de nomes, preços ou outros dados.",
-  "installerUrl": "https://github.com/devnezu/HortiFruti-Downloads/releases/download/v1.8.0/HortiFruti.PDV.Setup.1.8.0.exe",
-  "sha256": "0048ac7646777cd422d8db5ca75394aed1d784b0fb8f1a48a2e0fbe96efbf97c"
+  "version": "1.8.1",
+  "publishedAt": "2026-08-31T20:39:26.313Z",
+  "notes": "# HortiFruti PDV v1.8.1\n\n- As buscas de produtos agora ignoram diferenças entre letras maiúsculas e minúsculas, acentos e espaços repetidos.\n- A melhoria foi aplicada ao PDV, gerenciamento de produtos, custos por fornecedor, histórico e atividades.\n- A busca de produtos também encontra resultados pelo nome da categoria e pelo código de barras.",
+  "installerUrl": "https://github.com/devnezu/HortiFruti-Downloads/releases/download/v1.8.1/HortiFruti.PDV.Setup.1.8.1.exe",
+  "sha256": "76246c2b72bfdf2de4b88fb8e2aeee3fea130c540f342f51f48ec15d12231de7"
 }
