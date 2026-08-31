@@ -1,7 +1,7 @@
 {
-  "version": "1.4.0",
-  "publishedAt": "2026-08-31T15:56:12.5950880Z",
-  "notes": "# HortiFruti PDV 1.4.0\n\n- Melhora a apresentação dos pagamentos em dinheiro, Pix, cartão de crédito e cartão de débito nos relatórios e no fechamento.\n- Permite excluir fornecedores definitivamente, com confirmação, sem alterar as vendas já concluídas.\n- Adiciona o CNPJ aos dados da loja e ao cupom não fiscal.\n- Reorganiza o cupom térmico, com totais, pagamentos e data/hora mais claros.\n- Inclui ajustes de segurança e confiabilidade nas rotinas administrativas, de backup e atualização.",
-  "installerUrl": "https://github.com/devnezu/HortiFruti-Downloads/releases/download/v1.4.0/HortiFruti.PDV.Setup.1.4.0.exe",
-  "sha256": "2daba6050bef0421a390337ac6679b6537182c93fec103908ed4afc0e21a5f47"
+  "version": "1.5.0",
+  "publishedAt": "2026-08-31T17:08:03.569Z",
+  "notes": "# HortiFruti PDV 1.5.0\n\n- Novo banco inicial oficial com catálogo, preços e configurações da loja prontos para a primeira abertura.\n- Vendas, custos, turnos, movimentações e fechamentos não acompanham mais instalações novas.\n- Sugestão do valor contado no último fechamento ao abrir um novo caixa.\n- Cupom de teste da impressora com visual próprio e mais legível em impressão térmica.\n- Mensagens de impressão deixam claro quando o cupom foi enviado para a fila e alertam quando a impressora apresenta erro.",
+  "installerUrl": "https://github.com/devnezu/HortiFruti-Downloads/releases/download/v1.5.0/HortiFruti.PDV.Setup.1.5.0.exe",
+  "sha256": "74907bf2a54aff26923513d836f896501bcf83840e9e07accc19992c17cefb39"
 }
