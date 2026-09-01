@@ -1,7 +1,7 @@
 {
-  "version": "1.17.0",
-  "publishedAt": "2026-09-01T20:22:26.763Z",
-  "notes": "# HortiFruti PDV v1.17.0\n\n- Adicionada uma central para acompanhar as contas e os trabalhos de geração de imagens.\n- Agora é possível escolher manualmente qual conta será usada para gerar a imagem de um produto ou uma ilustração de oferta.\n- A central informa a disponibilidade e os limites de cada conta configurada no computador.\n- Trabalhos pendentes podem ser cancelados, e registros finalizados podem ser removidos ou limpos pela própria tela.\n- O acompanhamento da fila foi melhorado com estados claros para geração, conclusão, falha e cancelamento.",
-  "installerUrl": "https://github.com/devnezu/HortiFruti-Downloads/releases/download/v1.17.0/HortiFruti.PDV.Setup.1.17.0.exe",
-  "sha256": "af8db43f32f860917c9e88e0a6ecb285dc2c2017199fbd0300148c2eafd09c6c"
+  "version": "1.18.0",
+  "publishedAt": "2026-09-01T21:41:08.839Z",
+  "notes": "# HortiFruti PDV v1.18.0\n\n- A geração de imagens agora é processada pela fila central, sem depender do Codex ou do gerenciador de contas instalados no computador do caixa.\n- O PDV acompanha o andamento da solicitação e baixa a imagem somente quando o processamento é concluído.\n- A seleção da conta de geração e o acompanhamento da fila continuam disponíveis na central de imagens.\n- Melhorada a estabilidade do cancelamento e da recuperação de falhas no processamento de imagens.",
+  "installerUrl": "https://github.com/devnezu/HortiFruti-Downloads/releases/download/v1.18.0/HortiFruti.PDV.Setup.1.18.0.exe",
+  "sha256": "6fb749e28cafe6cbde91e99bdff602740085a3927537dc95792faf03bd488dff"
 }
