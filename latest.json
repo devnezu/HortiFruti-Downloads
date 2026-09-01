@@ -1,7 +1,7 @@
 {
-  "version": "1.15.0",
-  "publishedAt": "2026-09-01T18:14:31.425Z",
-  "notes": "# HortiFruti PDV v1.15.0\n\n- Os carrinhos em andamento agora possuem códigos fixos, como `#0001`, além dos estados “Em atendimento” e “Aguardando”, facilitando a identificação mesmo quando um carrinho intermediário é descartado.\n- O gerenciador de carrinhos ficou mais claro: o atendimento atual aparece primeiro, com horário, produtos, quantidade e total de cada compra.\n- Rascunhos vazios são removidos ao alternar ou abrir outro atendimento, evitando carrinhos sem produtos na lista.\n- A tela de produtos agora permite selecionar itens e gerar placas de oferta em PDF, com prévia em folha A4, preço e unidade preenchidos pelo cadastro.\n- O nome impresso em cada placa pode ser ajustado antes de salvar, e as ilustrações preparadas são reaproveitadas nas próximas gerações.",
-  "installerUrl": "https://github.com/devnezu/HortiFruti-Downloads/releases/download/v1.15.0/HortiFruti.PDV.Setup.1.15.0.exe",
-  "sha256": "21b30c6383caeed3d603c4dc2d78ea035c8ff1bea4947b6326fe6fda99e3e373"
+  "version": "1.16.0",
+  "publishedAt": "2026-09-01T18:59:46.316Z",
+  "notes": "# HortiFruti PDV v1.16.0\n\n- As placas de oferta agora possuem um banco local de desenhos: uma ilustração gerada pode ser salva e reutilizada em outros produtos.\n- Cada produto permite gerar um desenho novo, escolher outro no banco ou manter a ilustração já associada antes de criar o PDF.\n- O banco de desenhos possui busca por produto ou categoria e mostra uma prévia de cada ilustração disponível.\n- A geração das ilustrações ficou mais confiável em instalações do Windows e também ao processar solicitações maiores.\n- Se uma nova geração falhar, o desenho anteriormente associado continua disponível para a placa.",
+  "installerUrl": "https://github.com/devnezu/HortiFruti-Downloads/releases/download/v1.16.0/HortiFruti.PDV.Setup.1.16.0.exe",
+  "sha256": "352b0b3a8944bb03e57ab53879e959eb0e239e8f7d3bce345963cc61ee749239"
 }
