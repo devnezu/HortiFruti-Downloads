@@ -1,7 +1,7 @@
 {
-  "version": "1.14.0",
-  "publishedAt": "2026-09-01T17:17:06.512Z",
-  "notes": "# HortiFruti PDV v1.14.0\n\n- Agora é possível manter várias compras abertas ao mesmo tempo, atender outro cliente e retomar qualquer carrinho depois, inclusive após reiniciar o aplicativo.\n- Cada carrinho preserva seus próprios itens e formas de pagamento, com data e horário de abertura para facilitar a identificação.\n- O fechamento do caixa avisa quando ainda existem carrinhos com produtos, evitando que uma compra em espera seja esquecida.\n- Depois de concluir uma venda, o operador escolhe se deseja imprimir o cupom, evitando impressões desnecessárias.\n- As atualizações agora são baixadas e validadas em segundo plano, com progresso visível e sem bloquear as vendas.\n- Quando o download termina, a instalação fica disponível como uma etapa separada e só começa após nova confirmação do operador.",
-  "installerUrl": "https://github.com/devnezu/HortiFruti-Downloads/releases/download/v1.14.0/HortiFruti.PDV.Setup.1.14.0.exe",
-  "sha256": "098498cee9dde06e8ad27568d52f55dc04ff6e2a474a4a1b87b6246cb3249a53"
+  "version": "1.15.0",
+  "publishedAt": "2026-09-01T18:14:31.425Z",
+  "notes": "# HortiFruti PDV v1.15.0\n\n- Os carrinhos em andamento agora possuem códigos fixos, como `#0001`, além dos estados “Em atendimento” e “Aguardando”, facilitando a identificação mesmo quando um carrinho intermediário é descartado.\n- O gerenciador de carrinhos ficou mais claro: o atendimento atual aparece primeiro, com horário, produtos, quantidade e total de cada compra.\n- Rascunhos vazios são removidos ao alternar ou abrir outro atendimento, evitando carrinhos sem produtos na lista.\n- A tela de produtos agora permite selecionar itens e gerar placas de oferta em PDF, com prévia em folha A4, preço e unidade preenchidos pelo cadastro.\n- O nome impresso em cada placa pode ser ajustado antes de salvar, e as ilustrações preparadas são reaproveitadas nas próximas gerações.",
+  "installerUrl": "https://github.com/devnezu/HortiFruti-Downloads/releases/download/v1.15.0/HortiFruti.PDV.Setup.1.15.0.exe",
+  "sha256": "21b30c6383caeed3d603c4dc2d78ea035c8ff1bea4947b6326fe6fda99e3e373"
 }
