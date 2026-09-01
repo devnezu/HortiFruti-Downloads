@@ -1,7 +1,7 @@
 {
-  "version": "1.13.0",
-  "publishedAt": "2026-09-01T05:53:16.702Z",
-  "notes": "# HortiFruti PDV v1.13.0\n\n- Cadastro e atualização de custos ficaram mais rápidos: a última cotação é preenchida automaticamente e o preço de venda pode ser ajustado junto do custo.\n- A sugestão de preço por custo agora usa margens globais, com opções mínima, equilibrada e máxima, inclusive na alteração de preços em massa.\n- A edição de preço em massa ganhou uma lista mais prática para revisar e preencher cada produto individualmente.\n- Produtos e categorias podem ser encontrados com ou sem acentos, espaços ou hífen; as listas administrativas também ficaram mais responsivas.\n- Foram adicionados filtros de produtos com e sem custo, além de ações para ativar ou desativar vários produtos de uma vez.\n- O acesso administrativo passa a permanecer liberado por 15 minutos e pode usar Windows Hello como alternativa ao código.\n- O modo tela cheia do PDV agora ocupa toda a tela e protege melhor a operação do caixa.\n- Melhorias no cadastro de produtos: validação reforçada de valores, atalho para busca e geração de imagem assistida quando disponível.",
-  "installerUrl": "https://github.com/devnezu/HortiFruti-Downloads/releases/download/v1.13.0/HortiFruti.PDV.Setup.1.13.0.exe",
-  "sha256": "82e7f366c74f581976ef7749e5908df06212fe8268fffa10bd83fd1c540a4e01"
+  "version": "1.14.0",
+  "publishedAt": "2026-09-01T17:17:06.512Z",
+  "notes": "# HortiFruti PDV v1.14.0\n\n- Agora é possível manter várias compras abertas ao mesmo tempo, atender outro cliente e retomar qualquer carrinho depois, inclusive após reiniciar o aplicativo.\n- Cada carrinho preserva seus próprios itens e formas de pagamento, com data e horário de abertura para facilitar a identificação.\n- O fechamento do caixa avisa quando ainda existem carrinhos com produtos, evitando que uma compra em espera seja esquecida.\n- Depois de concluir uma venda, o operador escolhe se deseja imprimir o cupom, evitando impressões desnecessárias.\n- As atualizações agora são baixadas e validadas em segundo plano, com progresso visível e sem bloquear as vendas.\n- Quando o download termina, a instalação fica disponível como uma etapa separada e só começa após nova confirmação do operador.",
+  "installerUrl": "https://github.com/devnezu/HortiFruti-Downloads/releases/download/v1.14.0/HortiFruti.PDV.Setup.1.14.0.exe",
+  "sha256": "098498cee9dde06e8ad27568d52f55dc04ff6e2a474a4a1b87b6246cb3249a53"
 }
