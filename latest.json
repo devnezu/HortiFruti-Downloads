@@ -1,7 +1,7 @@
 {
-  "version": "1.12.0",
-  "publishedAt": "2026-09-01T00:39:05.036Z",
-  "notes": "# HortiFruti PDV v1.12.0\n\n- A edição de preços em massa agora sugere um valor individual para cada produto com base no custo cadastrado.\n- É possível escolher margens mínima, equilibrada ou máxima e conferir os preços na prévia antes de aplicar.\n- Produtos sem custo são identificados antes da confirmação para evitar alterações parciais.\n- O cálculo de margem e o arredondamento comercial foram reforçados para manter a prévia igual ao valor salvo.",
-  "installerUrl": "https://github.com/devnezu/HortiFruti-Downloads/releases/download/v1.12.0/HortiFruti.PDV.Setup.1.12.0.exe",
-  "sha256": "2868aee3946efd6cbbb5564a0dd17c9ca7793019e24e017e99dc0354fb1ae97f"
+  "version": "1.13.0",
+  "publishedAt": "2026-09-01T05:53:16.702Z",
+  "notes": "# HortiFruti PDV v1.13.0\n\n- Cadastro e atualização de custos ficaram mais rápidos: a última cotação é preenchida automaticamente e o preço de venda pode ser ajustado junto do custo.\n- A sugestão de preço por custo agora usa margens globais, com opções mínima, equilibrada e máxima, inclusive na alteração de preços em massa.\n- A edição de preço em massa ganhou uma lista mais prática para revisar e preencher cada produto individualmente.\n- Produtos e categorias podem ser encontrados com ou sem acentos, espaços ou hífen; as listas administrativas também ficaram mais responsivas.\n- Foram adicionados filtros de produtos com e sem custo, além de ações para ativar ou desativar vários produtos de uma vez.\n- O acesso administrativo passa a permanecer liberado por 15 minutos e pode usar Windows Hello como alternativa ao código.\n- O modo tela cheia do PDV agora ocupa toda a tela e protege melhor a operação do caixa.\n- Melhorias no cadastro de produtos: validação reforçada de valores, atalho para busca e geração de imagem assistida quando disponível.",
+  "installerUrl": "https://github.com/devnezu/HortiFruti-Downloads/releases/download/v1.13.0/HortiFruti.PDV.Setup.1.13.0.exe",
+  "sha256": "82e7f366c74f581976ef7749e5908df06212fe8268fffa10bd83fd1c540a4e01"
 }
