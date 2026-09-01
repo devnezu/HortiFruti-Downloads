@@ -1,7 +1,7 @@
 {
-  "version": "1.16.0",
-  "publishedAt": "2026-09-01T18:59:46.316Z",
-  "notes": "# HortiFruti PDV v1.16.0\n\n- As placas de oferta agora possuem um banco local de desenhos: uma ilustração gerada pode ser salva e reutilizada em outros produtos.\n- Cada produto permite gerar um desenho novo, escolher outro no banco ou manter a ilustração já associada antes de criar o PDF.\n- O banco de desenhos possui busca por produto ou categoria e mostra uma prévia de cada ilustração disponível.\n- A geração das ilustrações ficou mais confiável em instalações do Windows e também ao processar solicitações maiores.\n- Se uma nova geração falhar, o desenho anteriormente associado continua disponível para a placa.",
-  "installerUrl": "https://github.com/devnezu/HortiFruti-Downloads/releases/download/v1.16.0/HortiFruti.PDV.Setup.1.16.0.exe",
-  "sha256": "352b0b3a8944bb03e57ab53879e959eb0e239e8f7d3bce345963cc61ee749239"
+  "version": "1.16.1",
+  "publishedAt": "2026-09-01T19:21:36.432Z",
+  "notes": "# HortiFruti PDV v1.16.1\n\n- Corrigida a rotação automática de contas durante a geração de imagens quando a conta em uso atinge seu limite.\n- A identificação da conta ativa ficou mais confiável, inclusive após a renovação das credenciais de acesso.\n- Somente contas realmente configuradas entram na sequência de tentativas.\n- Mensagens estruturadas do gerador agora são interpretadas corretamente, sem exibir eventos técnicos brutos ao operador.\n- Quando uma conta não pode ser utilizada, o processo tenta as demais antes de informar a falha.",
+  "installerUrl": "https://github.com/devnezu/HortiFruti-Downloads/releases/download/v1.16.1/HortiFruti.PDV.Setup.1.16.1.exe",
+  "sha256": "416440daffcb8aa44e9059385085a61a1425bf1c9a168fbdf29a6873c86ebcc6"
 }
