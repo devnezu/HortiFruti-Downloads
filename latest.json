@@ -1,7 +1,7 @@
 {
-  "version": "1.11.0",
-  "publishedAt": "2026-09-01T00:18:51.809Z",
-  "notes": "# HortiFruti PDV v1.11.0\n\n- A tela de produtos agora permite definir, aumentar ou reduzir preços de vários produtos ao mesmo tempo.\n- A edição em massa mostra uma prévia dos valores antigos e novos antes da confirmação.\n- Novos filtros permitem localizar rapidamente produtos com custo cadastrado ou sem custo.\n- As alterações de preço são validadas e salvas juntas, evitando atualizações parciais.",
-  "installerUrl": "https://github.com/devnezu/HortiFruti-Downloads/releases/download/v1.11.0/HortiFruti.PDV.Setup.1.11.0.exe",
-  "sha256": "bd7fa0be528d002ea3307ae379063b720e0e5df4831ac5587a704fafc20ed31d"
+  "version": "1.12.0",
+  "publishedAt": "2026-09-01T00:39:05.036Z",
+  "notes": "# HortiFruti PDV v1.12.0\n\n- A edição de preços em massa agora sugere um valor individual para cada produto com base no custo cadastrado.\n- É possível escolher margens mínima, equilibrada ou máxima e conferir os preços na prévia antes de aplicar.\n- Produtos sem custo são identificados antes da confirmação para evitar alterações parciais.\n- O cálculo de margem e o arredondamento comercial foram reforçados para manter a prévia igual ao valor salvo.",
+  "installerUrl": "https://github.com/devnezu/HortiFruti-Downloads/releases/download/v1.12.0/HortiFruti.PDV.Setup.1.12.0.exe",
+  "sha256": "2868aee3946efd6cbbb5564a0dd17c9ca7793019e24e017e99dc0354fb1ae97f"
 }
