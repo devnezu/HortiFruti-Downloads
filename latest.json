@@ -1,7 +1,7 @@
 {
-  "version": "1.16.1",
-  "publishedAt": "2026-09-01T19:21:36.432Z",
-  "notes": "# HortiFruti PDV v1.16.1\n\n- Corrigida a rotação automática de contas durante a geração de imagens quando a conta em uso atinge seu limite.\n- A identificação da conta ativa ficou mais confiável, inclusive após a renovação das credenciais de acesso.\n- Somente contas realmente configuradas entram na sequência de tentativas.\n- Mensagens estruturadas do gerador agora são interpretadas corretamente, sem exibir eventos técnicos brutos ao operador.\n- Quando uma conta não pode ser utilizada, o processo tenta as demais antes de informar a falha.",
-  "installerUrl": "https://github.com/devnezu/HortiFruti-Downloads/releases/download/v1.16.1/HortiFruti.PDV.Setup.1.16.1.exe",
-  "sha256": "416440daffcb8aa44e9059385085a61a1425bf1c9a168fbdf29a6873c86ebcc6"
+  "version": "1.17.0",
+  "publishedAt": "2026-09-01T20:22:26.763Z",
+  "notes": "# HortiFruti PDV v1.17.0\n\n- Adicionada uma central para acompanhar as contas e os trabalhos de geração de imagens.\n- Agora é possível escolher manualmente qual conta será usada para gerar a imagem de um produto ou uma ilustração de oferta.\n- A central informa a disponibilidade e os limites de cada conta configurada no computador.\n- Trabalhos pendentes podem ser cancelados, e registros finalizados podem ser removidos ou limpos pela própria tela.\n- O acompanhamento da fila foi melhorado com estados claros para geração, conclusão, falha e cancelamento.",
+  "installerUrl": "https://github.com/devnezu/HortiFruti-Downloads/releases/download/v1.17.0/HortiFruti.PDV.Setup.1.17.0.exe",
+  "sha256": "af8db43f32f860917c9e88e0a6ecb285dc2c2017199fbd0300148c2eafd09c6c"
 }
