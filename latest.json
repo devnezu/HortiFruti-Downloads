@@ -1,7 +1,7 @@
 {
-  "version": "1.19.0",
-  "publishedAt": "2026-09-01T22:45:48.043Z",
-  "notes": "# HortiFruti PDV v1.19.0\n\n- Nas placas de oferta, agora é possível gerar um desenho individualmente ou todos os até quatro desenhos da página de uma só vez.\n- As gerações seguem em segundo plano: é possível navegar pelas páginas, usar o banco de desenhos e continuar ajustando os anúncios enquanto elas terminam.\n- Todo desenho de oferta concluído é salvo automaticamente no banco de desenhos, sem depender da criação de um PDF.\n- O worker central da VPS processa até quatro gerações simultâneas.",
-  "installerUrl": "https://github.com/devnezu/HortiFruti-Downloads/releases/download/v1.19.0/HortiFruti.PDV.Setup.1.19.0.exe",
-  "sha256": "5dc6b3fa8715c5765e68706c8fc7b6ebf419286c99f3d9037f4c7a785e8361a3"
+  "version": "1.19.3",
+  "publishedAt": "2026-09-02T02:19:44.797Z",
+  "notes": "# HortiFruti PDV v1.19.3\n\n- Padronizado o texto da unidade nas placas: `POR KG` e `POR UNIDADE` ficam em caixa alta e preservam a área segura de impressão.\n- Ao preencher um código administrativo de quatro dígitos correto, a administração é liberada automaticamente, mantendo o limite de tentativas e o bloqueio de segurança.",
+  "installerUrl": "https://github.com/devnezu/HortiFruti-Downloads/releases/download/v1.19.3/HortiFruti.PDV.Setup.1.19.3.exe",
+  "sha256": "4707d8868aa4c65c9de164903ca1901d4906dfac005c238a4ed59fbb2c8f49b3"
 }
