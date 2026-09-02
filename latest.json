@@ -1,7 +1,7 @@
 {
-  "version": "1.19.3",
-  "publishedAt": "2026-09-02T02:19:44.797Z",
-  "notes": "# HortiFruti PDV v1.19.3\n\n- Padronizado o texto da unidade nas placas: `POR KG` e `POR UNIDADE` ficam em caixa alta e preservam a área segura de impressão.\n- Ao preencher um código administrativo de quatro dígitos correto, a administração é liberada automaticamente, mantendo o limite de tentativas e o bloqueio de segurança.",
-  "installerUrl": "https://github.com/devnezu/HortiFruti-Downloads/releases/download/v1.19.3/HortiFruti.PDV.Setup.1.19.3.exe",
-  "sha256": "4707d8868aa4c65c9de164903ca1901d4906dfac005c238a4ed59fbb2c8f49b3"
+  "version": "1.20.0",
+  "publishedAt": "2026-09-02T02:48:33.169Z",
+  "notes": "# HortiFruti PDV v1.20.0\n\n- Nas vendas por peso, pressione Enter para adicionar o item ao carrinho.\n- Depois de adicionar uma pesagem, a busca de produtos recebe o foco automaticamente para agilizar o próximo item.",
+  "installerUrl": "https://github.com/devnezu/HortiFruti-Downloads/releases/download/v1.20.0/HortiFruti.PDV.Setup.1.20.0.exe",
+  "sha256": "09455f27a16f3e4d57f8d7267d389fbc9df7ab29511e0773cc32ba23a6b953e1"
 }
