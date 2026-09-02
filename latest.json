@@ -1,7 +1,7 @@
 {
-  "version": "1.20.0",
-  "publishedAt": "2026-09-02T02:48:33.169Z",
-  "notes": "# HortiFruti PDV v1.20.0\n\n- Nas vendas por peso, pressione Enter para adicionar o item ao carrinho.\n- Depois de adicionar uma pesagem, a busca de produtos recebe o foco automaticamente para agilizar o próximo item.",
-  "installerUrl": "https://github.com/devnezu/HortiFruti-Downloads/releases/download/v1.20.0/HortiFruti.PDV.Setup.1.20.0.exe",
-  "sha256": "09455f27a16f3e4d57f8d7267d389fbc9df7ab29511e0773cc32ba23a6b953e1"
+  "version": "1.21.0",
+  "publishedAt": "2026-09-02T18:03:49.456Z",
+  "notes": "# HortiFruti PDV v1.21.0\n\n- As fotos adicionadas aos produtos passam a ser armazenadas na nuvem de forma automática, reduzindo o tamanho do banco de dados e preservando o catálogo entre instalações.\n- Fotos já existentes são transferidas gradualmente, sem interromper o uso do PDV.",
+  "installerUrl": "https://github.com/devnezu/HortiFruti-Downloads/releases/download/v1.21.0/HortiFruti.PDV.Setup.1.21.0.exe",
+  "sha256": "00f030840013d284e9caf6fedb19bf16448c0af64ac7d5f0a5045e7dc0beac9c"
 }
