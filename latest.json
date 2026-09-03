@@ -1,7 +1,7 @@
 {
-  "version": "1.22.0",
-  "publishedAt": "2026-09-02T22:12:53.504Z",
-  "notes": "# HortiFruti PDV v1.22.0\n\n- Novo Controle de pendências: registre valores em aberto, observações e acompanhe pagamentos concluídos.\n- O pagamento de uma venda agora pode combinar até três formas de pagamento, com cálculo do valor restante.\n- Melhorias na gestão de produtos: edição de custo, nome e foto, além de impressão de ofertas mais organizada.\n- Melhorias no centro de imagens e na visualização de valores financeiros administrativos.",
-  "installerUrl": "https://github.com/devnezu/HortiFruti-Downloads/releases/download/v1.22.0/HortiFruti.PDV.Setup.1.22.0.exe",
-  "sha256": "3dbf7d0c6c5a16c9193ca1dbb4021ef9379f7a28d5f6b456ded3f2a61614801d"
+  "version": "1.23.0",
+  "publishedAt": "2026-09-03T01:35:34.370Z",
+  "notes": "# HortiFruti PDV v1.23.0\n\n- Pagamentos em dinheiro agora são reduzidos para o próximo múltiplo de cinco centavos, sempre em benefício do cliente, com o ajuste exibido no recebimento e no cupom.\n- Ao abrir o recebimento, nenhuma forma de pagamento vem marcada: escolha Dinheiro, Pix, Crédito ou Débito antes de concluir.\n- A pesagem exibe o valor calculado antes de adicionar o item ao carrinho e, ao alterar o peso, volta a acompanhar a balança.\n- Ao instalar uma atualização, o PDV faz o backup validado e fecha automaticamente para liberar o instalador, inclusive quando está em tela cheia.\n- Nova opção Moderninha Pro nas Configurações, preparada para a futura integração com Pix, débito e cartão.",
+  "installerUrl": "https://github.com/devnezu/HortiFruti-Downloads/releases/download/v1.23.0/HortiFruti.PDV.Setup.1.23.0.exe",
+  "sha256": "0cff52bac41bf7a991db1809858eed72aca2a61d1e1c1d7fe2c18f0f286bfa7a"
 }
