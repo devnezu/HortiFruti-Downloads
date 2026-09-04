@@ -1,7 +1,7 @@
 {
-  "version": "1.23.0",
-  "publishedAt": "2026-09-03T01:35:34.370Z",
-  "notes": "# HortiFruti PDV v1.23.0\n\n- Pagamentos em dinheiro agora são reduzidos para o próximo múltiplo de cinco centavos, sempre em benefício do cliente, com o ajuste exibido no recebimento e no cupom.\n- Ao abrir o recebimento, nenhuma forma de pagamento vem marcada: escolha Dinheiro, Pix, Crédito ou Débito antes de concluir.\n- A pesagem exibe o valor calculado antes de adicionar o item ao carrinho e, ao alterar o peso, volta a acompanhar a balança.\n- Ao instalar uma atualização, o PDV faz o backup validado e fecha automaticamente para liberar o instalador, inclusive quando está em tela cheia.\n- Nova opção Moderninha Pro nas Configurações, preparada para a futura integração com Pix, débito e cartão.",
-  "installerUrl": "https://github.com/devnezu/HortiFruti-Downloads/releases/download/v1.23.0/HortiFruti.PDV.Setup.1.23.0.exe",
-  "sha256": "0cff52bac41bf7a991db1809858eed72aca2a61d1e1c1d7fe2c18f0f286bfa7a"
+  "version": "1.24.0",
+  "publishedAt": "2026-09-04T16:43:47.9168580Z",
+  "notes": "# HortiFruti PDV v1.24.0\n\n- A impressão de ofertas ganhou prévia em A4 com seis placas por página, layout mais limpo e ajuste automático para nomes longos.\n- Os valores das placas agora ficam centralizados e os centavos permanecem legíveis, inclusive em preços como R$ 10,90.\n- A seleção de produtos continua ativa ao buscar ou filtrar a lista, com indicação dos itens temporariamente ocultos.\n- Agora é possível gerar imagens de produtos em lote e acompanhar a fila de geração.\n- O sistema antigo de imagens para placas de oferta foi removido; as placas usam apenas as informações do produto.",
+  "installerUrl": "https://github.com/devnezu/HortiFruti-Downloads/releases/download/v1.24.0/HortiFruti.PDV.Setup.1.24.0.exe",
+  "sha256": "54f167e9d041540479ae3bb76146cf4a4105c38ce2d54c300b5348eb501546c3"
 }
